@@ -76,14 +76,14 @@ Power BI — Data Modeling, DAX Measures, Interactive Dashboards
 - Use **Drill Through** insights to reallocate budget per category performance
 
 📸 Dashboard Preview
+![Overview](dashboard%20preview.png/Project%20overview.png)
+![Product Analysis 1](dashboard%20preview.png/Product%20Analysis%201.png)
+![Product Analysis 2](dashboard%20preview.png/Product%20Analysis%202.png)
+![Product Analysis 3](dashboard%20preview.png/Product%20Analysis%203.png)
+![Order Analysis 1](dashboard%20preview.png/Order%20Analysis.png)
+![Order Analysis 2](dashboard%20preview.png/Order%20Analysis%202.png)
+![Returns Analysis](dashboard%20preview.png/Returns%20Analysis.png)
+![Insights](dashboard%20preview.png/INSIGHTS.png)
+![Tooltip Page](dashboard%20preview.png/ToolTip%20Page.png)
+![Drill Through Page](dashboard%20preview.png/Drill%20Through%20Page.png)
 
-[Overview](Project_overview.png)
-[Product Analysis 1](Product_Analysis_1.png)
-[Product Analysis 2](Product_Analysis_2.png)
-[Product Analysis 3](Product_Analysis_3.png)
-[Order Analysis 1](Order_Analysis.png)
-[Order Analysis 2](Order_Analysis_2.png)
-[Returns Analysis](Returns_Analysis.png)
-[Insights](INSIGHTS.png)
-[Tooltip Page](ToolTip_Page.png)
-[Drill Through Page](Drill_Through_Page.png)
